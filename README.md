@@ -16,3 +16,9 @@ LCD (Liquid Crystal)
 required cable connections
 
 
+Aslına bakıldığında proje basit gibi görünebilir.
+Fakat bu sistem geliştirilerek alışveriş merkezleri, bankalar ve benzeri çoğu işletme içine entegre edilebilir.
+Bununla birlikte işletmelerin yoğunluk haritasını çıkarabiliriz.
+Çıkarılan bu yoğunluk haritası ile çeşitli analizler yapılabilir.
+Bu analizler sonucunda gerekli önlemler alınabilir. 
+Bu proje sadece, ucu açık olan bu sektördeki ilk başlangıç kıvılcımımız oldu.
