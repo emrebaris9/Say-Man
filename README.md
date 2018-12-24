@@ -15,6 +15,8 @@ LCD (Liquid Crystal)
 
 required cable connections
 
+![proje_poster](https://user-images.githubusercontent.com/28316968/50398959-cac16a80-078c-11e9-990f-cf1c00ff300b.jpg)
+
 
 Aslına bakıldığında proje basit gibi görünebilir.
 Fakat bu sistem geliştirilerek alışveriş merkezleri, bankalar ve benzeri çoğu işletme içine entegre edilebilir.
